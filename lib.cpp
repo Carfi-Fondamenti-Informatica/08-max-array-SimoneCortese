@@ -5,6 +5,6 @@ float massimo = numeri[0];
   if (massimo < numeri[i]{
       massimo = numeri[i];
       }
-      }
+    }
       return massimo;
 }
