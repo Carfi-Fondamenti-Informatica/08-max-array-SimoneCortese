@@ -3,12 +3,12 @@
 using namespace std;
 
 int main(){
-  int A;
-  cin>>A;
-  float num[A];
-  for (int i=0;i<A;i++){
+  int D;
+  cin>>D;
+  float num[D];
+  for (int i=0;i<D;i++){
       cin>>num[i];
   }
-  cout<<funzione(num,A);
+  cout<<funzione(num,D);
   return 0;
 }
